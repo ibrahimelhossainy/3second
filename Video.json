@@ -1,18 +1,1 @@
-{
-  "videos": [
-    {
-      "title": "رحلة إلى الفضاء",
-      "channel": "قناة العلوم",
-      "cover": "https://k.top4top.io/p_3508kzbra1.png",
-      "sourceType": "youtube",
-      "sourceId": "j-5O7ZZPn_E"
-    },
-    {
-      "title": "فيلم وثائقي عن الطبيعة",
-      "channel": "إنتاج خاص",
-      "cover": "path/to/nature_cover.jpg",
-      "sourceType": "file",
-      "sourceId": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
-    }
-  ]
-}
+
