@@ -1,8 +1,8 @@
 {
-  "quizId": "quiz-1",
+  "quizId": "quiz-2",
   "isActive": true,
-  "startDate": "2025-10-10 02:00 PM",
-  "endDate": "2025-10-10 7:00 PM",
+  "startDate": "2025-10-10 06:00 PM",
+  "endDate": "2025-10-10 09:00 PM",
   "preQuizWidget": {
     "enabled": true,
     "teacherNotes": "تنبيه هام: يرجى التأكد من استقرار اتصال الإنترنت قبل بدء الاختبار. هذا الاختبار لتحديد المستوى وسيتم رصد الدرجات. بالتوفيق للجميع!"
